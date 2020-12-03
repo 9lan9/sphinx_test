@@ -39,18 +39,12 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.napoleon',
     'sphinx_rtd_theme',
-    # 'm2r',
-    "recommonmark",
+    # 'm2r'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 source_suffix = ['.rst', '.md']
-html_sidebars = {
-    '**': [
-        'versioning.html',
-    ],
-}
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
