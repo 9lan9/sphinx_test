@@ -39,7 +39,7 @@ extensions = [
     'sphinx.ext.mathjax',
     'sphinx.ext.napoleon',
     'sphinx_rtd_theme',
-    'm2r',
+    # 'm2r',
     "recommonmark",
 ]
 
