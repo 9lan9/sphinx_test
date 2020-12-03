@@ -14,7 +14,7 @@ import os
 import sphinx_rtd_theme
 import recommonmark
 import sys
-import m2r
+# import m2r
 sys.path.insert(0, os.path.abspath('../../sphinx_test'))
 
 
